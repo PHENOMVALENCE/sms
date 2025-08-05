@@ -1,7 +1,7 @@
-package com.sms;
+package com.example.sms;
 
-import com.sms.model.Student;
-import com.sms.service.StudentService;
+import com.example.sms.model.Student;
+import com.example.sms.service.StudentService;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

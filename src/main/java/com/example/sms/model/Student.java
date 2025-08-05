@@ -1,4 +1,4 @@
-package com.sms.model;
+package com.example.sms.model;
 
 import jakarta.persistence.*;
 

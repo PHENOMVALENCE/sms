@@ -1,7 +1,7 @@
-package com.sms.service;
+package com.example.sms.service;
 
-import com.sms.model.Student;
-import com.sms.repository.StudentRepository;
+import com.example.sms.model.Student;
+import com.example.sms.repository.StudentRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
